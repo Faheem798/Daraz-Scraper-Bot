@@ -1,3 +1,3 @@
-Scraping Top-Rated Home Essentials from Daraz.pk 🛍️🏠
+<b>Scraping Top-Rated Home Essentials from Daraz.pk 🛍️🏠</b>
 
 In this professional web scraping script, we leverage Puppeteer, a powerful automation tool, to extract top-rated home essentials from Daraz.pk, one of the leading online marketplaces. By launching a headless browser, we discreetly navigate the website and gather valuable data. The script adeptly interacts with the DOM, capturing product titles, prices, and images using CSS selectors. Each valuable piece of information is collected and stored systematically in a CSV file for further analysis. The script demonstrates an efficient and ethical approach to aggregating product data, aligning with modern web scraping principles. 🚀💻
